@@ -2,7 +2,7 @@
 
 ## Deskripsi
 
-**SISKOPMA** adalah sebuah program _Command Line Interface (CLI)_ sederhana yang dibuat menggunakan bahasa pemrograman C. Program ini merupakan simulasi sistem manajemen untuk sebuah koperasi mahasiswa. 
+**SISKOPMA** adalah sebuah program sederhana yang dibuat menggunakan bahasa pemrograman C. Program ini merupakan simulasi sistem manajemen untuk sebuah koperasi mahasiswa. 
 
 Proyek ini dibuat untuk memenuhi tugas akhir mata kuliah **Algoritma dan Pemrograman**.
 
@@ -37,29 +37,6 @@ Program ini dibangun dengan mengimplementasikan berbagai konsep dasar dalam algo
 8.  **Pencarian** (_Sequential Search_)
 9.  **Pengurutan** (_Bubble Sort_)
 
-## Cara Menjalankan Program
-
-1.  **Kompilasi Kode:**
-    Pastikan Anda memiliki C _compiler_ (seperti GCC) terinstal di sistem Anda. Buka terminal atau _command prompt_, arahkan ke direktori tempat file ini disimpan, lalu kompilasi dengan perintah:
-    ```bash
-    gcc siskopma.c -o siskopma
-    ```
-    *Ganti `siskopma.c` dengan nama file kode C Anda jika berbeda.*
-
-2.  **Jalankan Program:**
-    Setelah kompilasi berhasil, jalankan program dengan perintah:
-    ```bash
-    ./siskopma
-    ```
-    Untuk pengguna Windows:
-    ```bash
-    siskopma.exe
-    ```
-
-3.  **File Data:**
-    Program ini akan secara otomatis membuat dua file `.txt` untuk menyimpan data jika file tersebut belum ada:
-    - `produk.txt`: Menyimpan data produk (ID, nama, harga, stok).
-    - `mahasiswa.txt`: Menyimpan data pengguna mahasiswa (NIM, nama, saldo).
 
 ---
 *Dibuat sebagai bagian dari pemenuhan tugas mata kuliah Algoritma dan Pemrograman.*
