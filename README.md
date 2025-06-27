@@ -25,6 +25,11 @@ Program ini memiliki dua mode pengguna dengan fungsionalitas yang berbeda:
 - Mengecek sisa saldo.
 - Mencetak struk sederhana setelah transaksi berhasil.
 
+## Keunggulan Program
+
+**Penyimpanan Data Persisten:** Program ini terintegrasi langsung dengan file eksternal (`.txt`). Seluruh data, baik daftar produk maupun informasi mahasiswa, akan disimpan secara otomatis. Keunggulannya adalah data tidak akan hilang meskipun program ditutup dan dibuka kembali, berfungsi layaknya sebuah database sederhana.
+
+
 ## Konsep Pemrograman yang Diimplementasikan
 Program ini dibangun dengan mengimplementasikan berbagai konsep dasar dalam algoritma dan pemrograman, antara lain:
 1.  **Percabangan** (`if-else`, `switch-case`)
