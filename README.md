@@ -27,7 +27,7 @@ Program ini memiliki dua mode pengguna dengan fungsionalitas yang berbeda:
 
 ## Keunggulan Program
 
-**Penyimpanan Data Persisten:** Program ini terintegrasi langsung dengan file eksternal (`.txt`). Seluruh data, baik daftar produk maupun informasi mahasiswa, akan disimpan secara otomatis. Keunggulannya adalah data tidak akan hilang meskipun program ditutup dan dibuka kembali, berfungsi layaknya sebuah database sederhana.
+**Penyimpanan Data :** Program ini terintegrasi langsung dengan file eksternal (`.txt`). Seluruh data, baik daftar produk maupun informasi mahasiswa, akan disimpan secara otomatis. Keunggulannya adalah data tidak akan hilang meskipun program ditutup dan dibuka kembali, berfungsi seperti sebuah database sederhana.
 
 
 ## Konsep Pemrograman yang Diimplementasikan
