@@ -1,0 +1,4 @@
+99 notnot 100 70
+100 ayam_bakar 500 990
+101 api 100 7
+1 rahmat 1000 88
