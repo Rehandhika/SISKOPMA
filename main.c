@@ -1,3 +1,11 @@
+/*
+Program ini disusun oleh :
+Kelompok 1 - 1KS2
+1.	Athaya Daffa Winata (222413514)
+2.	Defila Cahyati (222413540)
+3.	Rehandhika Arya Pratama (222413752)
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
